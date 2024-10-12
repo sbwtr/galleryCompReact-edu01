@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="230.69269"
-   height="516.04266"
-   viewBox="0 0 230.69269 516.04269"
+   width="134.92493"
+   height="202.116"
+   viewBox="0 0 134.92493 202.11601"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,39 +13,41 @@
      id="defs1" />
   <g
      id="layer3"
-     transform="translate(-140.85227,-317.87373)">
+     transform="translate(-181.38188,-464.65293)">
     <g
        id="layer4"
        transform="translate(-41.899193,10.89379)">
       <g
          id="g15"
-         transform="translate(0,-1.7113403)">
+         transform="matrix(0.38945851,0,0,0.38945851,273.34013,334.1061)"
+         style="stroke:#ffffff;stroke-width:2.56767;stroke-dasharray:none;stroke-opacity:1">
         <path
            id="rect14"
-           style="display:inline;fill:none;stroke:#87b1af;stroke-width:0.5"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.56767;stroke-dasharray:none;stroke-opacity:1"
            d="m 141.02905,336.97426 17.03565,-17.03564 17.03564,17.03564"
            transform="translate(41.899193,-10.89379)" />
         <path
            id="rect14-0"
-           style="display:inline;fill:none;stroke:#87b1af;stroke-width:0.5"
+           style="display:inline;fill:none;stroke:#ffffff;stroke-width:2.56767;stroke-dasharray:none;stroke-opacity:1"
            d="m 175.10034,818.23852 -17.03565,17.03564 -17.03564,-17.03564"
            transform="translate(41.899193,-10.89379)" />
         <path
-           style="display:inline;fill:none;fill-opacity:1;stroke:#87b1af;stroke-width:0.5;stroke-opacity:1"
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.56767;stroke-dasharray:none;stroke-opacity:1"
            d="M 158.06469,336.79303 V 818.08532"
            id="path14"
            transform="translate(41.899193,-10.89379)" />
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:48px;line-height:102%;font-family:'Work Sans';-inkscape-font-specification:'Work Sans Thin';letter-spacing:1px;fill:none;fill-opacity:1;stroke:#87b1af;stroke-width:0.5;stroke-opacity:1"
-         x="233.37814"
-         y="575.56128"
-         id="text11-9-4"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:26.1576px;line-height:102%;font-family:'Work Sans';-inkscape-font-specification:'Work Sans Thin';letter-spacing:0.544951px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-opacity:1"
+         x="221.27876"
+         y="564.63232"
+         id="text11-9-4"
+         transform="scale(1.005188,0.99483877)"><tspan
            id="tspan11-4-9"
-           x="233.37814"
-           y="575.56128"
-           style="font-size:48px">SCROLL</tspan></text>
+           x="221.27876"
+           y="564.63232"
+           style="font-size:26.1576px;stroke:#ffffff;stroke-width:0.5;stroke-opacity:1">SCROLL</tspan></text>
     </g>
   </g>
 </svg>

@@ -1,12 +1,14 @@
 :root {
   font-family: "Work Sans";
-  font-weight: 100;
+  font-weight: 200;
   --col-black: black;
   --col-dimgrey: #7b7471ff;
+  --col-dimgrey-op: rgba(122, 120, 120, 0.6);
   --col-grey: #c0b9b2ff;
-  --col-light: #ede5e5ff;
+  --col-light: rgb(237, 234, 234);
   --col-white: white;
   --col-green: #87b1afff;
-  --c-pointer: url(assets/cursorPointer.svg);
-  --c-click: url(assets/cursorClick.svg);
+  --c-pointer: url(src/assets/cursorPointer.svg);
+  --c-click: url(src/assets/cursorClick.svg);
+  background-color: var(--col-light);
 }
