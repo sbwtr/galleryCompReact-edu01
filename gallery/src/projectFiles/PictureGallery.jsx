@@ -45,8 +45,9 @@ export default function PictureGallery(){
         window.addEventListener('load', handleGetData);
 
         function handleCurrIndex(value){
-            setIndex(value)
+                setIndex(value)            
         }
+        
         function handleStatus(value){
             setStatus(value)
         }
@@ -55,21 +56,22 @@ export default function PictureGallery(){
         //wowczas on Mouse enter/ leave pojawis ie scrooll
         //indidcator
 
+        //albo nie aktualizuj Showcard przez
+        //state variable tylko jakos bezposrednio
+        //np przy zmianie mediaquery
+
     return (
         <>
         {status === "showpict" && 
             <>
-            <div 
-            className="backdrop"
-            onWheel={()=>{
-               setIndex((index+1)%pics.length)
-            }}>
             <ShowCard 
+            cindex = {index}
+            picsl={pics.length}
             imgsrc={selectedpict.url}
             onStatus={handleStatus}
-            descr={selectedpict.descript}/>
+            descr={selectedpict.descript}
+            onWheelHandler={handleCurrIndex}/>
                
-            </div>
             </>
             }
         <Gallery inputs={pics}
